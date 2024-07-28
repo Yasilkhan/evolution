@@ -4785,6 +4785,7 @@ Animate Underline
   margin-bottom: 50px;
   display: inline-block;
 }
+
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .ms-banner__bg-title {
     font-size: 150px;
@@ -6321,8 +6322,8 @@ Animate Underline
 
 .ms-fun-brand-rating {
   position: relative;
-  padding-inline-start: 15px;
-  margin-inline-start: 20px;
+  /* padding-inline-start: 15px;
+  margin-inline-start: 20px; */
 }
 .ms-fun-brand-rating::after {
   content: "";
@@ -11627,6 +11628,9 @@ Animate Underline
   .ms-footer2-rating.three {
     margin-bottom: 25px;
   }
+}
+.padding-left {
+  padding-left: 10%;
 }
 
 /*# sourceMappingURL=main.css.map */

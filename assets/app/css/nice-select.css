@@ -146,7 +146,7 @@
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
-  padding-left: 30px;
+  padding-left: 10px;
   display: flex;
   flex-wrap: wrap;
   margin-top: 0px;
@@ -184,6 +184,7 @@
   max-width: 33.3%;
   min-height: auto;
   margin: 0 0 0 0;
+  padding-left: 20px;
   height: 100%;
 }
 
@@ -230,6 +231,7 @@
 
   .album .responsive-container-block.img-cont {
     max-width: 100%;
+   padding-left: 10px;
     flex-direction: row;
     justify-content: space-between;
   }
@@ -255,6 +257,7 @@
   .album .img.img-big {
     max-width: 94%;
     margin: 0 0 25px 0;
+    padding-left: 20px;
   }
 
   .album .img.img-last {
