@@ -4803,7 +4803,7 @@ Animate Underline
   color: var(--clr-common-white);
   line-height: 1.2;
   text-transform: capitalize;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   position: relative;
   z-index: 5;
 }
